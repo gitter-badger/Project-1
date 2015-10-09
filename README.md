@@ -1,5 +1,7 @@
 # TripleA Maps Project
 
+[![Join the chat at https://gitter.im/triplea-maps/Project](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/triplea-maps/Project?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Admin tools and documentation for the tripleA maps project.
 
 - New Map and Map Update Requests: 
